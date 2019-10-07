@@ -22,10 +22,23 @@ def fib(n):
 	else:
 		return (fib(n-2) + fib(n-1))
 
-i = 1
+l = list()
+l.append(1)
+l.append(1)
+i = 2
+
 while(True):
-	if(fib(i) >= 4000000):
-		loggign.debug("fib({i}) = {f}".format(i = i, f = fib(i)))
+	l.append(l[i-1] + l[i-2])
+	if (l[i] >= 4000000):
+		l.pop()	
 		break
-	else:
-		i -= 1
+	i += 1
+
+for i in range(len(l)):
+	if(l[i] % 2 != 0):
+		l[i] = 0	
+	
+l.remove(0)
+s = sum(l)
+
+logging.debug(s)	
