@@ -1,0 +1,8 @@
+Aug 02 07:04:45.288 [notice] Tor 0.3.2.10 (git-0edaa32732ec8930) running on Linux with Libevent 2.1.8-stable, OpenSSL 1.1.1, Zlib 1.2.11, Liblzma 5.2.2, and Libzstd 1.3.3.
+Aug 02 07:04:45.288 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Aug 02 07:04:45.294 [notice] Read configuration file "/etc/tor/torrc".
+Aug 02 07:04:45.297 [notice] Scheduler type KIST has been enabled.
+Aug 02 07:04:45.297 [notice] Opening Socks listener on 127.0.0.1:9050
+Aug 02 07:04:45.297 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
+Aug 02 07:04:45.297 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
+Aug 02 07:04:45.297 [err] Reading config failed--see warnings above.
