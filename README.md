@@ -9,3 +9,4 @@ Solved problems:
 * [Problem 3](/python/problem3.py) - Largest prime factor *(solved using python)*
 * [Problem 4](/python/problem3.py) - Largest palindrome product *(solved using python)*
 * [Problem 5](/python/problem5.py) - Smallest multiple *(solved using python)*
+* [Problem 6](/python/problem6.py) - Sum square difference *(solved using python)*
