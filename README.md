@@ -12,3 +12,4 @@ Solved problems:
 * [Problem 6](/python/problem6.py)       - Sum square difference *(solved using python)*
 * [Problem 7](/golang/problem7/main.go)  - 10001st prime *(solved using golang)*
 * [Problem 8](rust/problem8/src/main.rs) - Largest product in a series *(solved using rust)*
+* [Problem 9](rust/problem9/src/main.rs) - Special Pythagorean triplet *(solved using rust)*
