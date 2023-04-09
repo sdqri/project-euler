@@ -7,3 +7,5 @@ pub fn find_special_pythagorean_triplet(sum: i32) -> (i32, i32, i32) {
         .nth(0).unwrap();
     return r;
 }
+
+a b c
