@@ -16,3 +16,4 @@ Solved problems:
 - [Problem 10](rust/problem10/src/main.rs) - Summation of primes _(solved using rust)_
 - [Problem 11](rust/problem11/src/main.rs) - Largest product in a grid _(solved using rust)_
 - [Problem 12](/golang/problem12/main.go) - Highly Divisible Triangular Number _(solved using golang)_
+- [Problem 13](/golang/problem13/main.go) - Large Sum _(solved using golang)_
