@@ -18,3 +18,4 @@ Solved problems:
 - [Problem 12](/golang/problem12/main.go) - Highly Divisible Triangular Number _(solved using golang)_
 - [Problem 13](/golang/problem13/main.go) - Large Sum _(solved using golang)_
 - [Problem 14](/golang/problem14/main.go) - Longest Collatz Sequence _(solved using golang)_
+- [Problem 15](/golang/problem15/main.go) - Lattice Paths _(solved using golang)_
