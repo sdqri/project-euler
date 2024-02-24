@@ -20,3 +20,4 @@ Solved problems:
 - [Problem 14](/golang/problem14/main.go) - Longest Collatz Sequence _(solved using golang)_
 - [Problem 15](/golang/problem15/main.go) - Lattice Paths _(solved using golang)_
 - [Problem 16](/golang/problem16/main.go) - Power Digit Sum _(solved using golang)_
+- [Problem 17](/golang/problem17/main.go) - Number Letter Counts _(solved using golang)_
