@@ -23,3 +23,4 @@ Solved problems:
 - [Problem 17](/golang/problem17/main.go) - Number Letter Counts _(solved using golang)_
 - [Problem 18](/python/problem18.py) -  Maximum Path Sum I _(solved using python)_
 - [Problem 19](/golang/problem19/main.go) - Counting Sundays _(solved using golang)_
+- [Problem 20](/golang/problem20/main.go) - Factorial Digit Sum _(solved using golang)_
