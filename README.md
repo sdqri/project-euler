@@ -27,3 +27,4 @@ Solved problems:
 - [Problem 21](/c/problem21/main.c) - Amicable Numbers _(solved using c)_
 - [Problem 22](/golang/problem22/main.go) - Names Scores _(solved using golang)_
 - [Problem 23](/c/problem23/main.c) - Non-Abundant Sums _(solved using c)_
+- [Problem 24](/golang/problem24/main.go) - Lexicographic Permutations _(solved using golang)_
