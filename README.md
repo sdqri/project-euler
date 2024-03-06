@@ -29,3 +29,4 @@ Solved problems:
 - [Problem 23](/c/problem23/main.c) - Non-Abundant Sums _(solved using c)_
 - [Problem 24](/golang/problem24/main.go) - Lexicographic Permutations _(solved using golang)_
 - [Problem 25](/golang/problem25/main.go) - 1000-digit Fibonacci Number _(solved using golang)_
+- [Problem 26](/golang/problem26/main.go) - Reciprocal Cycles _(solved using golang)_
