@@ -30,3 +30,4 @@ Solved problems:
 - [Problem 24](/golang/problem24/main.go) - Lexicographic Permutations _(solved using golang)_
 - [Problem 25](/golang/problem25/main.go) - 1000-digit Fibonacci Number _(solved using golang)_
 - [Problem 26](/golang/problem26/main.go) - Reciprocal Cycles _(solved using golang)_
+- [Problem 27](/golang/problem27/main.go) - Quadratic Primes _(solved using golang)_
