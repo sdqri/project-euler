@@ -32,3 +32,4 @@ Solved problems:
 - [Problem 26](/golang/problem26/main.go) - Reciprocal Cycles _(solved using golang)_
 - [Problem 27](/golang/problem27/main.go) - Quadratic Primes _(solved using golang)_
 - [Problem 28](/golang/problem28/main.go) - Number Spiral Diagonals _(solved using golang)_
+- [Problem 29](/golang/problem29/main.go) - Distinct Powers _(solved using golang)_
