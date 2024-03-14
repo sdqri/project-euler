@@ -34,3 +34,4 @@ Solved problems:
 - [Problem 28](/golang/problem28/main.go) - Number Spiral Diagonals _(solved using golang)_
 - [Problem 29](/golang/problem29/main.go) - Distinct Powers _(solved using golang)_
 - [Problem 30](/golang/problem30/main.go) - Digit Fifth Powers _(solved using golang)_
+- [Problem 31](/c/problem31/main.c) - Coin Sums _(solved using c)_
