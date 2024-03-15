@@ -36,3 +36,4 @@ Solved problems:
 - [Problem 30](/golang/problem30/main.go) - Digit Fifth Powers _(solved using golang)_
 - [Problem 31](/c/problem31/main.c) - Coin Sums _(solved using c)_
 - [Problem 32](/golang/problem32/main.go) - Pandigital Products _(solved using golang)_
+- [Problem 33](/golang/problem33/main.go) - Digit Cancelling Fractions _(solved using golang)_
