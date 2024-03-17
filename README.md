@@ -38,3 +38,4 @@ Solved problems:
 - [Problem 32](/golang/problem32/main.go) - Pandigital Products _(solved using golang)_
 - [Problem 33](/golang/problem33/main.go) - Digit Cancelling Fractions _(solved using golang)_
 - [Problem 34](/golang/problem34/main.go) - Digit Factorials _(solved using golang)_
+- [Problem 35](/c/problem35/main.c) - Circular Primes _(solved using c)_
