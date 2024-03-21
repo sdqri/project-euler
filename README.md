@@ -40,3 +40,4 @@ Solved problems:
 - [Problem 34](/golang/problem34/main.go) - Digit Factorials _(solved using golang)_
 - [Problem 35](/c/problem35/main.c) - Circular Primes _(solved using c)_
 - [Problem 36](rust/problem36/src/main.rs) - Double-base Palindromes _(solved using rust)_
+- [Problem 37](/python/problem37.py) - Truncatable Primes _(solved using python)_
