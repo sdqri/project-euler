@@ -43,3 +43,4 @@ Solved problems:
 - [Problem 37](/python/problem37.py) - Truncatable Primes _(solved using python)_
 - [Problem 38](/c/problem38/main.c) - Pandigital Multiples _(solved using c)_
 - [Problem 39](/c/problem39/main.c) - Integer Right Triangles _(solved using c)_
+- [Problem 40](/golang/problem40/main.go) - Champernowne's Constant _(solved using golang)_
