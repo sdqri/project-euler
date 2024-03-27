@@ -44,3 +44,4 @@ Solved problems:
 - [Problem 38](/c/problem38/main.c) - Pandigital Multiples _(solved using c)_
 - [Problem 39](/c/problem39/main.c) - Integer Right Triangles _(solved using c)_
 - [Problem 40](/golang/problem40/main.go) - Champernowne's Constant _(solved using golang)_
+- [Problem 41](/typescript/problem41/main.ts) - Pandigital Prime _(solved using typescript)_
