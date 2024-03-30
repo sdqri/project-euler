@@ -22,11 +22,11 @@ fn main() {
         .to_string();
     let max_product = string_num
         .chars()
-        .map(|ch| ch.to_digit(10).unwrap_or(1))
-        .collect::<Vec<u32>>()
-        .windows(4)
+        .map(|ch| ch.to_digit(10).unwrap_or(1) as u64)
+        .collect::<Vec<u64>>()
+        .windows(13)
         .into_iter()
-        .map(|window| window.clone().iter().product())
+        .map(|window| window.iter().product())
         .max()
         .unwrap_or(1);
     println!("Largest product = {}", max_product)
