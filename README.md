@@ -46,3 +46,4 @@ Solved problems:
 - [Problem 40](/golang/problem40/main.go) - Champernowne's Constant _(solved using golang)_
 - [Problem 41](/typescript/problem41/main.ts) - Pandigital Prime _(solved using typescript)_
 - [Problem 42](rust/problem42/src/main.rs) - Coded Triangle Numbers _(solved using rust)_
+- [Problem 43](rust/problem43/src/main.rs) - Sub-string Divisibility _(solved using rust)_
