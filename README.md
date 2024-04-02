@@ -47,3 +47,4 @@ Solved problems:
 - [Problem 41](/typescript/problem41/main.ts) - Pandigital Prime _(solved using typescript)_
 - [Problem 42](rust/problem42/src/main.rs) - Coded Triangle Numbers _(solved using rust)_
 - [Problem 43](rust/problem43/src/main.rs) - Sub-string Divisibility _(solved using rust)_
+- [Problem 44](/c/problem44/main.c) - Pentagon Numbers _(solved using c)_
