@@ -49,3 +49,4 @@ Solved problems:
 - [Problem 43](rust/problem43/src/main.rs) - Sub-string Divisibility _(solved using rust)_
 - [Problem 44](/c/problem44/main.c) - Pentagon Numbers _(solved using c)_
 - [Problem 45](rust/problem45/src/main.rs) - Triangular, Pentagonal, and Hexagonal _(solved using rust)_
+- [Problem 46](/typescript/problem46/main.ts) - Goldbach's Other Conjecture _(solved using typescript)_
