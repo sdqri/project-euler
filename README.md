@@ -50,3 +50,4 @@ Solved problems:
 - [Problem 44](/c/problem44/main.c) - Pentagon Numbers _(solved using c)_
 - [Problem 45](rust/problem45/src/main.rs) - Triangular, Pentagonal, and Hexagonal _(solved using rust)_
 - [Problem 46](/typescript/problem46/main.ts) - Goldbach's Other Conjecture _(solved using typescript)_
+- [Problem 47](/typescript/problem47/main.ts) - Distinct Primes Factors _(solved using typescript)_
