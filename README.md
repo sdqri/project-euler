@@ -51,3 +51,4 @@ Solved problems:
 - [Problem 45](rust/problem45/src/main.rs) - Triangular, Pentagonal, and Hexagonal _(solved using rust)_
 - [Problem 46](/typescript/problem46/main.ts) - Goldbach's Other Conjecture _(solved using typescript)_
 - [Problem 47](/typescript/problem47/main.ts) - Distinct Primes Factors _(solved using typescript)_
+- [Problem 48](/golang/problem48/main.go) - Self Powers _(solved using golang)_
