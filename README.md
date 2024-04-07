@@ -52,3 +52,4 @@ Solved problems:
 - [Problem 46](/typescript/problem46/main.ts) - Goldbach's Other Conjecture _(solved using typescript)_
 - [Problem 47](/typescript/problem47/main.ts) - Distinct Primes Factors _(solved using typescript)_
 - [Problem 48](/golang/problem48/main.go) - Self Powers _(solved using golang)_
+- [Problem 49](/c/problem49/main.c) - Prime Permutations _(solved using c)_
