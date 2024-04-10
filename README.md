@@ -56,3 +56,4 @@ Solved problems:
 - [Problem 49](/c/problem49/main.c) - Prime Permutations _(solved using c)_
 - [Problem 50](/golang/problem50/main.go) - Consecutive Prime Sum _(solved using golang)_
 - [Problem 51](/typescript/problem51/main.ts) - Prime Digit Replacements _(solved using typescript)_
+- [Problem 52](/golang/problem52/main.go) - Permuted Multiples _(solved using golang)_
