@@ -58,3 +58,4 @@ Solved problems:
 - [Problem 51](/typescript/problem51/main.ts) - Prime Digit Replacements _(solved using typescript)_
 - [Problem 52](/golang/problem52/main.go) - Permuted Multiples _(solved using golang)_
 - [Problem 53](/python/problem53.py) - Combinatoric Selections _(solved using python)_
+- [Problem 54](/golang/problem54/main.go) - Poker Hands _(solved using golang)_
