@@ -59,3 +59,4 @@ Solved problems:
 - [Problem 52](/golang/problem52/main.go) - Permuted Multiples _(solved using golang)_
 - [Problem 53](/python/problem53.py) - Combinatoric Selections _(solved using python)_
 - [Problem 54](/golang/problem54/main.go) - Poker Hands _(solved using golang)_
+- [Problem 55](/python/problem55.py) - 	Lychrel Numbers _(solved using python)_
