@@ -62,3 +62,4 @@ Solved problems:
 - [Problem 55](/python/problem55.py) - 	Lychrel Numbers _(solved using python)_
 - [Problem 56](/golang/problem56/main.go) - Powerful Digit Sum _(solved using golang)_
 - [Problem 57](rust/problem57/src/main.rs) - Square Root Convergents _(solved using rust)_
+- [Problem 58](/golang/problem58/main.go) - Spiral Primes _(solved using golang)_
