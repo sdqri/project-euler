@@ -63,3 +63,4 @@ Solved problems:
 - [Problem 56](/golang/problem56/main.go) - Powerful Digit Sum _(solved using golang)_
 - [Problem 57](rust/problem57/src/main.rs) - Square Root Convergents _(solved using rust)_
 - [Problem 58](/golang/problem58/main.go) - Spiral Primes _(solved using golang)_
+- [Problem 59](/golang/problem59/main.go) - XOR Decryption _(solved using golang)_
