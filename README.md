@@ -65,3 +65,4 @@ Solved problems:
 - [Problem 58](/golang/problem58/main.go) - Spiral Primes _(solved using golang)_
 - [Problem 59](/golang/problem59/main.go) - XOR Decryption _(solved using golang)_
 - [Problem 60](/python/problem60/problem60.py) - Prime Pair Sets _(solved using python)_
+- [Problem 61](/golang/problem61/main.go) - Cyclical Figurate Numbers _(solved using golang)_
