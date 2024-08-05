@@ -66,3 +66,4 @@ Solved problems:
 - [Problem 59](/golang/problem59/main.go) - XOR Decryption _(solved using golang)_
 - [Problem 60](/python/problem60/problem60.py) - Prime Pair Sets _(solved using python)_
 - [Problem 61](/golang/problem61/main.go) - Cyclical Figurate Numbers _(solved using golang)_
+- [Problem 62](/typescript/problem62/main.ts) - Cubic Permutations _(solved using typescript)_
