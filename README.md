@@ -68,3 +68,4 @@ Solved problems:
 - [Problem 61](/golang/problem61/main.go) - Cyclical Figurate Numbers _(solved using golang)_
 - [Problem 62](/typescript/problem62/main.ts) - Cubic Permutations _(solved using typescript)_
 - [Problem 63](/c/problem63/main.c) - Powerful Digit Counts _(solved using c)_
+- [Problem 64](/golang/problem64/main.go) - Odd Period Square Roots _(solved using golang)_
