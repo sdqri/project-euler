@@ -69,4 +69,5 @@ Solved problems:
 - [Problem 62](/typescript/problem62/main.ts) - Cubic Permutations _(solved using typescript)_
 - [Problem 63](/c/problem63/main.c) - Powerful Digit Counts _(solved using c)_
 - [Problem 64](/golang/problem64/main.go) - Odd Period Square Roots _(solved using golang)_
+- [Problem 64](/golang/problem87/main.go) - Large Non-Mersenne Prime _(solved using golang)_
 - [Problem 100](/golang/problem100/main.go) - Arranged Probability _(solved using golang)_
