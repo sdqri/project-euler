@@ -71,4 +71,5 @@ Solved problems:
 - [Problem 64](/golang/problem64/main.go) - Odd Period Square Roots _(solved using golang)_
 - [Problem 64](/golang/problem87/main.go) - Large Non-Mersenne Prime _(solved using golang)_
 - [Problem 92](/golang/problem92/main.go) - Square Digit Chains _(solved using golang)_
+- [Problem 99](/golang/problem99/main.go) - Largest Exponential _(solved using golang)_
 - [Problem 100](/golang/problem100/main.go) - Arranged Probability _(solved using golang)_
