@@ -74,3 +74,4 @@ Solved problems:
 - [Problem 92](/golang/problem92/main.go) - Square Digit Chains _(solved using golang)_
 - [Problem 99](/golang/problem99/main.go) - Largest Exponential _(solved using golang)_
 - [Problem 100](/golang/problem100/main.go) - Arranged Probability _(solved using golang)_
+- [Problem 206](/golang/problem206/main.go) - Concealed Square _(solved using golang)_
