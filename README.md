@@ -69,9 +69,10 @@ Solved problems:
 - [Problem 62](/typescript/problem62/main.ts) - Cubic Permutations _(solved using typescript)_
 - [Problem 63](/c/problem63/main.c) - Powerful Digit Counts _(solved using c)_
 - [Problem 64](/golang/problem64/main.go) - Odd Period Square Roots _(solved using golang)_
-- [Problem 64](/golang/problem87/main.go) - Large Non-Mersenne Prime _(solved using golang)_
 - [Problem 67](/python/problem67/problem67.py) -  Maximum Path Sum II _(solved using python)_
+- [Problem 81](/golang/problem81/main.go) - Path Sum: Two Ways _(solved using golang)_
 - [Problem 92](/golang/problem92/main.go) - Square Digit Chains _(solved using golang)_
+- [Problem 97](/golang/problem97/main.go) - Large Non-Mersenne Prime _(solved using golang)_
 - [Problem 99](/golang/problem99/main.go) - Largest Exponential _(solved using golang)_
 - [Problem 100](/golang/problem100/main.go) - Arranged Probability _(solved using golang)_
 - [Problem 206](/golang/problem206/main.go) - Concealed Square _(solved using golang)_
