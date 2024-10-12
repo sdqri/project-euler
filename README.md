@@ -70,6 +70,7 @@ Solved problems:
 - [Problem 63](/c/problem63/main.c) - Powerful Digit Counts _(solved using c)_
 - [Problem 64](/golang/problem64/main.go) - Odd Period Square Roots _(solved using golang)_
 - [Problem 67](/python/problem67/problem67.py) -  Maximum Path Sum II _(solved using python)_
+- [Problem 80](/golang/problem80/main.go) - Square Root Digital Expansion _(solved using golang)_
 - [Problem 81](/golang/problem81/main.go) - Path Sum: Two Ways _(solved using golang)_
 - [Problem 82](/golang/problem82/main.go) - Path Sum: Three Ways _(solved using golang)_
 - [Problem 83](/golang/problem83/main.go) - Path Sum: Four Ways _(solved using golang)_
