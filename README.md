@@ -80,4 +80,5 @@ Solved problems:
 - [Problem 97](/golang/problem97/main.go) - Large Non-Mersenne Prime _(solved using golang)_
 - [Problem 99](/golang/problem99/main.go) - Largest Exponential _(solved using golang)_
 - [Problem 100](/golang/problem100/main.go) - Arranged Probability _(solved using golang)_
-- [Problem 206](/golang/problem206/main.go) - Concealed Square _(solved using golang)_
+⚠️  Project Euler’s code of conduct discourages sharing solutions for problems beyond the first 100, allowing others to fully experience the satisfaction of solving them. Therefore, for problems beyond 100, I’ll share my progress but refrain from posting the solutions.
+- Problem 206 - Concealed Square _(solved using golang)_
