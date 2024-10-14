@@ -72,6 +72,7 @@ Solved problems:
 - [Problem 67](/python/problem67/problem67.py) -  Maximum Path Sum II _(solved using python)_
 - [Problem 74](/golang/problem74/main.go) - Digit Factorial Chains _(solved using golang)_
 - [Problem 75](/golang/problem75/main.go) - Singular Integer Right Triangles _(solved using golang)_
+- [Problem 79](/golang/problem79/main.go) - Passcode Derivation _(solved using golang)_
 - [Problem 80](/golang/problem80/main.go) - Square Root Digital Expansion _(solved using golang)_
 - [Problem 81](/golang/problem81/main.go) - Path Sum: Two Ways _(solved using golang)_
 - [Problem 82](/golang/problem82/main.go) - Path Sum: Three Ways _(solved using golang)_
