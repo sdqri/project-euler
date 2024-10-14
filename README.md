@@ -78,6 +78,7 @@ Solved problems:
 - [Problem 82](/golang/problem82/main.go) - Path Sum: Three Ways _(solved using golang)_
 - [Problem 83](/golang/problem83/main.go) - Path Sum: Four Ways _(solved using golang)_
 - [Problem 92](/golang/problem92/main.go) - Square Digit Chains _(solved using golang)_
+- [Problem 95](/golang/problem95/main.go) - Amicable Chains _(solved using golang)_
 - [Problem 97](/golang/problem97/main.go) - Large Non-Mersenne Prime _(solved using golang)_
 - [Problem 99](/golang/problem99/main.go) - Largest Exponential _(solved using golang)_
 - [Problem 100](/golang/problem100/main.go) - Arranged Probability _(solved using golang)_
