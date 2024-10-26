@@ -69,6 +69,7 @@ Solved problems:
 - [Problem 62](/typescript/problem62/main.ts) - Cubic Permutations _(solved using typescript)_
 - [Problem 63](/c/problem63/main.c) - Powerful Digit Counts _(solved using c)_
 - [Problem 64](/golang/problem64/main.go) - Odd Period Square Roots _(solved using golang)_
+- [Problem 65](/golang/problem65/main.go) - Convergents of e  _(solved using golang)_
 - [Problem 67](/python/problem67/problem67.py) -  Maximum Path Sum II _(solved using python)_
 - [Problem 69](/golang/problem69/main.go) - Totient Maximum _(solved using golang)_
 - [Problem 71](/golang/problem71/main.go) - Ordered Fractions _(solved using golang)_
