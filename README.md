@@ -76,6 +76,7 @@ Solved problems:
 - [Problem 71](/golang/problem71/main.go) - Ordered Fractions _(solved using golang)_
 - [Problem 74](/golang/problem74/main.go) - Digit Factorial Chains _(solved using golang)_
 - [Problem 75](/golang/problem75/main.go) - Singular Integer Right Triangles _(solved using golang)_
+- [Problem 76](/golang/problem76/main.go) - Counting Summations _(solved using golang)_
 - [Problem 79](/golang/problem79/main.go) - Passcode Derivation _(solved using golang)_
 - [Problem 80](/golang/problem80/main.go) - Square Root Digital Expansion _(solved using golang)_
 - [Problem 81](/golang/problem81/main.go) - Path Sum: Two Ways _(solved using golang)_
