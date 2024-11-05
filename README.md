@@ -85,6 +85,7 @@ Solved problems:
 - [Problem 85](/golang/problem85/main.go) - Counting Rectangles _(solved using golang)_
 - [Problem 92](/golang/problem92/main.go) - Square Digit Chains _(solved using golang)_
 - [Problem 95](/golang/problem95/main.go) - Amicable Chains _(solved using golang)_
+- [Problem 96](/golang/problem96/main.go) - Su Doku _(solved using golang)_
 - [Problem 97](/golang/problem97/main.go) - Large Non-Mersenne Prime _(solved using golang)_
 - [Problem 99](/golang/problem99/main.go) - Largest Exponential _(solved using golang)_
 - [Problem 100](/golang/problem100/main.go) - Arranged Probability _(solved using golang)_
