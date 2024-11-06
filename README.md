@@ -73,6 +73,7 @@ Solved problems:
 - [Problem 66](/golang/problem66/main.go) - Diophantine Equation  _(solved using golang)_
 - [Problem 67](/python/problem67/problem67.py) -  Maximum Path Sum II _(solved using python)_
 - [Problem 69](/golang/problem69/main.go) - Totient Maximum _(solved using golang)_
+- [Problem 70](/golang/problem70/main.go) - Totient Permutation _(solved using golang)_
 - [Problem 71](/golang/problem71/main.go) - Ordered Fractions _(solved using golang)_
 - [Problem 74](/golang/problem74/main.go) - Digit Factorial Chains _(solved using golang)_
 - [Problem 75](/golang/problem75/main.go) - Singular Integer Right Triangles _(solved using golang)_
