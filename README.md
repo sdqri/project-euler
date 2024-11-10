@@ -75,6 +75,7 @@ Solved problems:
 - [Problem 69](/golang/problem69/main.go) - Totient Maximum _(solved using golang)_
 - [Problem 70](/golang/problem70/main.go) - Totient Permutation _(solved using golang)_
 - [Problem 71](/golang/problem71/main.go) - Ordered Fractions _(solved using golang)_
+- [Problem 73](/golang/problem73/main.go) - Counting Fractions in a Range _(solved using golang)_
 - [Problem 74](/golang/problem74/main.go) - Digit Factorial Chains _(solved using golang)_
 - [Problem 75](/golang/problem75/main.go) - Singular Integer Right Triangles _(solved using golang)_
 - [Problem 76](/golang/problem76/main.go) - Counting Summations _(solved using golang)_
